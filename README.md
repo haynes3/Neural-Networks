@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/b47574f9-7ad3-4bd3-87eb-4b513915d44c)
+
+
 # Image Classification Using ANN and CNN on CIFAR-10 Dataset
 
 This project aims to accurately classify images into different categories using artificial neural networks (ANNs) and convolutional neural networks (CNNs). It utilizes the CIFAR-10 dataset, which contains 50,000 training images and 10,000 test images across 10 classes, such as airplanes, cars, cats, and dogs. The goal is to compare the performance of ANN and CNN models for image classification tasks.
